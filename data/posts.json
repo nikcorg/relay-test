@@ -1,0 +1,8 @@
+{
+    "1": {
+        id: 1,
+        published: String(Date.now() - 3600), // Publish before comment
+        title: "Lorem ipsum post title",
+        content: "Dolor sit amet post content"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "1": {
+        id: 1,
+        postId: 1,
+        posted: String(Date.now()),
+        from: "John Smith",
+        content: "Lorem ipsum comment"
+    }
+}
